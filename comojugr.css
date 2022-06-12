@@ -1,0 +1,38 @@
+cuerpo {
+    background-image :  url ( "images/fondoinicio.jpg" );
+    familia de fuentes :  "Roboto Light" , sans-serif;
+    min-altura :  90 vh ;
+}
+
+h1 {
+    tamaño de fuente :  50 px ;
+    peso de fuente :  500 ;
+    alineación de texto : centro;
+    margen inferior :  80 px ;
+    transformación de texto : mayúsculas;
+    color :  # eacf0b ;
+    relleno :  5 px  10 px ;
+    pantalla : bloque en línea;
+}
+
+. contenedor {
+    ancho :  1200 píxeles ;
+    margen : automático;
+    relleno :  100 px  0 ;
+    pantalla : flexible;
+    dirección de flexión : columna;
+    alinear elementos : centro;
+    justificar-contenido : centro;
+}
+
+. texto {
+    color : azul alice;
+    alineación de texto : centro;
+    relleno :  5 px  20 px ;
+}
+
+. contenido {
+    color : azul alice;
+    alineación de texto : izquierda;
+    relleno :  5 px  20 px ;
+}
